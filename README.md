@@ -7,8 +7,9 @@ It improves package tracking efficiency and transparency and also enhance custom
 
 ## Files:
 
-* Database_Design.pdf: Description and ERD of the package delivery system.
-* Pack_Del_Sys.sql: SQL code for main database.
+* Database_Design.pdf: Description and ERD of the package delivery system
+* Pack_Del_Sys.sql: SQL code for main database
+* Views.sql: Views for various perspectives and insights into the data stored in the database
 
 ## Technologies:
 
@@ -17,11 +18,8 @@ It improves package tracking efficiency and transparency and also enhance custom
 
 ## Installation and Usage:
 
-1) Install MySQL or any other compatible database server.
-2) Create a new database for the package delivery system.
-3) Import the Pack_Del_Sys.sql file into the database.
-
-
-
+1) Install MySQL or any other compatible database server
+2) Create a new database for the package delivery system
+3) Import the Pack_Del_Sys.sql file into the database
 
 
